@@ -1,0 +1,10 @@
+﻿.vscode/launch.json
+sonarlint.json
+
+\.sonar/
+test-reports/
+coverage/
+*.ospx
+tests/fixtures/ПараметрыТестирования.txt
+
+oscript_modules
